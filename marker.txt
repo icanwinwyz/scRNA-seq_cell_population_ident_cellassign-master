@@ -1,0 +1,11 @@
+type	marker
+Rod_photoreceptors	Pde6a,Cnga1,Rho
+Cone_photoreceptors	Opn1sw,Arr3,Gngt2
+Muller_glia	Sox2,Aqp4,Abca8a,Gpr37
+Retinal_astrocytes	Gfap,Gja1
+Microglia	Hexb,Trem2,Gpr34,Tmem119,Cx3cr1,P2ry12
+Bipolar_cells	Gnb3,Vsx1,Grm6,Scgn,Trpm1
+Retinal_ganglion_cells	Nefl,Gap43,Pcdh8,Shh,Cacng3,Sgsm1,Txnrd3
+Amacrine_cells	Gad1,Calb1,Prox1
+Horizontal_cells	Onecut1
+Vascular_cells	Tm4sf1,Cldn5
